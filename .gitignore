@@ -1,0 +1,13 @@
+node_modules/
+build/
+.DS_Store
+
+# The supplied source archive is tracked; do not add extracted duplicate copies.
+narenj/illustration/
+narenj/logo/
+narenj/font/
+narenj/*.md
+narenj/Naranj_Product_UX_Architecture_v2.1 (2).docx
+narenj/Question types (2).xlsx
+narenj/skill form - v5.ods
+narenj/naranj-design-system/

@@ -1,0 +1,125 @@
+:root {
+  /* Naranj Color System v1.0 — Light theme */
+
+  /* Brand: Primary Citrus Orange */
+  --naranj-brand-primary-50: #FFF6EF;
+  --naranj-brand-primary-100: #FCE9DA;
+  --naranj-brand-primary-200: #F8D1B5;
+  --naranj-brand-primary-300: #F3B287;
+  --naranj-brand-primary-400: #ED9257;
+  --naranj-brand-primary-500: #E9782B;
+  --naranj-brand-primary-600: #D9651B;
+  --naranj-brand-primary-700: #B94F14;
+  --naranj-brand-primary-800: #943F12;
+  --naranj-brand-primary-900: #71320F;
+
+  /* Brand: Secondary Learning Teal */
+  --naranj-brand-secondary-50: #EFF9F7;
+  --naranj-brand-secondary-100: #D9F0EC;
+  --naranj-brand-secondary-200: #B5E1DA;
+  --naranj-brand-secondary-300: #83C9BE;
+  --naranj-brand-secondary-400: #4EAA9D;
+  --naranj-brand-secondary-500: #218C83;
+  --naranj-brand-secondary-600: #18756E;
+  --naranj-brand-secondary-700: #155E59;
+  --naranj-brand-secondary-800: #144C49;
+  --naranj-brand-secondary-900: #123F3D;
+
+  /* Brand: Accent Gold */
+  --naranj-brand-accent-50: #FFFAE8;
+  --naranj-brand-accent-100: #FFF1C2;
+  --naranj-brand-accent-200: #FBE18A;
+  --naranj-brand-accent-300: #F5D05D;
+  --naranj-brand-accent-400: #F2C14E;
+  --naranj-brand-accent-500: #DFA92D;
+  --naranj-brand-accent-600: #B9851F;
+  --naranj-brand-accent-700: #8E641B;
+
+  /* Neutral */
+  --naranj-neutral-0: #FFFFFF;
+  --naranj-neutral-50: #FAF9F6;
+  --naranj-neutral-100: #F3F1EC;
+  --naranj-neutral-200: #E7E3DC;
+  --naranj-neutral-300: #D5D0C7;
+  --naranj-neutral-400: #AAA49A;
+  --naranj-neutral-500: #79736B;
+  --naranj-neutral-600: #5F5A53;
+  --naranj-neutral-700: #45413C;
+  --naranj-neutral-800: #2E2B27;
+  --naranj-neutral-900: #1F1D1A;
+  --naranj-neutral-950: #141311;
+
+  /* Semantic: Success */
+  --naranj-success-50: #EFF8F1;
+  --naranj-success-100: #D9EEDC;
+  --naranj-success-500: #2F855A;
+  --naranj-success-600: #276C4A;
+  --naranj-success-700: #20583D;
+
+  /* Semantic: Warning */
+  --naranj-warning-50: #FFF7E8;
+  --naranj-warning-100: #FCE8BF;
+  --naranj-warning-500: #A96812;
+  --naranj-warning-600: #87520E;
+  --naranj-warning-700: #68400D;
+
+  /* Semantic: Danger */
+  --naranj-danger-50: #FFF1F0;
+  --naranj-danger-100: #F8DAD7;
+  --naranj-danger-500: #C4473A;
+  --naranj-danger-600: #A9362D;
+  --naranj-danger-700: #852B25;
+
+  /* Semantic: Info */
+  --naranj-info-50: #EFF6FD;
+  --naranj-info-100: #DCEBFA;
+  --naranj-info-500: #3478B8;
+  --naranj-info-600: #285F95;
+  --naranj-info-700: #204B75;
+
+  /* Semantic surfaces */
+  --naranj-surface-canvas: #FAF9F6;
+  --naranj-surface-page: #FFFFFF;
+  --naranj-surface-subtle: #F3F1EC;
+  --naranj-surface-raised: #FFFFFF;
+  --naranj-surface-sunken: #EDEAE4;
+  --naranj-surface-inverse: #2E2B27;
+
+  /* Semantic text */
+  --naranj-text-primary: #2E2B27;
+  --naranj-text-secondary: #5F5A53;
+  --naranj-text-tertiary: #79736B;
+  --naranj-text-disabled: #AAA49A;
+  --naranj-text-inverse: #FFFFFF;
+  --naranj-text-link: #18756E;
+  --naranj-text-link-hover: #155E59;
+  --naranj-text-on-primary: #1F1D1A;
+  --naranj-text-on-secondary: #FFFFFF;
+  --naranj-text-on-danger: #FFFFFF;
+  --naranj-text-on-success: #FFFFFF;
+  --naranj-text-on-info: #FFFFFF;
+
+  /* Borders and focus */
+  --naranj-border-default: #E7E3DC;
+  --naranj-border-strong: #D5D0C7;
+  --naranj-border-subtle: #F3F1EC;
+  --naranj-border-focus: #218C83;
+  --naranj-focus-ring: #218C83;
+  --naranj-focus-ring-on-dark: #F5D05D;
+
+  /* Interactive */
+  --naranj-interactive-primary: #E9782B;
+  --naranj-interactive-primary-hover: #D9651B;
+  --naranj-interactive-primary-active: #B94F14;
+  --naranj-interactive-primary-disabled: #F3B287;
+  --naranj-interactive-secondary: #218C83;
+  --naranj-interactive-secondary-hover: #18756E;
+  --naranj-interactive-secondary-active: #155E59;
+  --naranj-interactive-secondary-disabled: #83C9BE;
+  --naranj-interactive-selection: #FCE9DA;
+  --naranj-interactive-selection-border: #E9782B;
+
+  /* Overlay */
+  --naranj-overlay-scrim: #1F1D1A;
+  --naranj-overlay-scrim-opacity: 0.48;
+}

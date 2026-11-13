@@ -1,0 +1,34 @@
+:root {
+  --naranj-space-0: 0px;
+  --naranj-space-1: 4px;
+  --naranj-space-2: 8px;
+  --naranj-space-3: 12px;
+  --naranj-space-4: 16px;
+  --naranj-space-5: 20px;
+  --naranj-space-6: 24px;
+  --naranj-space-8: 32px;
+  --naranj-space-10: 40px;
+  --naranj-space-12: 48px;
+  --naranj-space-16: 64px;
+  --naranj-space-20: 80px;
+
+  --naranj-radius-xs: 6px;
+  --naranj-radius-sm: 10px;
+  --naranj-radius-md: 14px;
+  --naranj-radius-lg: 18px;
+  --naranj-radius-xl: 24px;
+  --naranj-radius-2xl: 28px;
+  --naranj-radius-pill: 999px;
+
+  --naranj-shadow-none: none;
+  --naranj-shadow-xs: 0 1px 2px rgba(31,29,26,.05);
+  --naranj-shadow-sm: 0 2px 8px rgba(31,29,26,.06);
+  --naranj-shadow-md: 0 8px 24px rgba(31,29,26,.08);
+  --naranj-shadow-lg: 0 16px 40px rgba(31,29,26,.12);
+
+  --naranj-content-max: 1200px;
+  --naranj-gutter-mobile: 16px;
+  --naranj-gutter-tablet: 24px;
+  --naranj-gutter-desktop: 32px;
+  --naranj-gutter-wide: 40px;
+}

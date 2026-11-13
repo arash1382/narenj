@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "Abar Low";
+  src: url("/fonts/AbarLow-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Abar Low";
+  src: url("/fonts/AbarLow-SemiBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Abar Low";
+  src: url("/fonts/AbarLow-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Abar Low";
+  src: url("/fonts/AbarLow-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Abar Low";
+  src: url("/fonts/AbarLow-Black.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+}
+
+:root {
+  --naranj-font-family: "Abar Low", Tahoma, sans-serif;
+}
+html[lang="fa"], html[dir="rtl"], body {
+  font-family: var(--naranj-font-family);
+}
